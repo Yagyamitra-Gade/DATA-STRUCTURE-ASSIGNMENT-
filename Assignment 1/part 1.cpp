@@ -24,7 +24,7 @@ int main()
     cout << "Enter Book 3 Title: ";
     cin >> title3;
 
-    cout << "\n===== LIBRARY BOOKS =====";
+    cout << "\n##### LIBRARY BOOKS #####";
 
     cout << "\n\nBook ID: " << id1;
     cout << "\nBook Title: " << title1;
