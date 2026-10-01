@@ -24,8 +24,6 @@ int main()
 
         front++;
     }
-    
-    }
 
     return 0;
 }
