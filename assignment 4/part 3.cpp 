@@ -54,7 +54,6 @@ else if (choice == 2)
     }
 }
 
-// Serve Customer
 else if (choice == 3)
 {
     if (front < rear)
